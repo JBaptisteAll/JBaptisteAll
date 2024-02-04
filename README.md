@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Jean-Baptiste
 - I’m interested to become a data analyst.
   I’m currently working on my SQL skills, and I'm developing my knowledge on Excel,
-  The next step for me is to soon learn Tableau, Power Bi and then Python
+  learning Tableau, Power Bi and Python
 - 📫 You can reach me by E-mail at jb.allombert@gmail.com
 
 <!---
