@@ -1,10 +1,10 @@
-- 👋 Hi, my name is Jean-Baptiste
-- I’m a data analyst.
+👋 Hi, my name is Jean-Baptiste
+I’m a data analyst.
  
 
-- Please feel free to watch my Project and give me any advice you might have
-- 
-- [My Portfolio]([https://www.jedha.co/](https://jbaptisteall.github.io/JeanBaptisteAllombert/))
+Please feel free to watch my Project and give me any advice you might have
+  
+        [My Portfolio]([https://www.jedha.co/](https://jbaptisteall.github.io/JeanBaptisteAllombert/))
     
 ↗️⬆️ You can reach me here ⬆️↖️
   
