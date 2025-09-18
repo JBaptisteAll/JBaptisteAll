@@ -3,8 +3,10 @@
  
 
 - Please feel free to watch my Project and give me any advice you might have
+- 
+- [My Portfolio]([https://www.jedha.co/](https://jbaptisteall.github.io/JeanBaptisteAllombert/))
     
-- 📫 You can reach me by E-mail at jb.allombert@gmail.com
+↗️⬆️ You can reach me here ⬆️↖️
   
 <!---
 JBaptisteAll/JBaptisteAll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
