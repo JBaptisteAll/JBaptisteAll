@@ -13,3 +13,5 @@ Learn more:
 JBaptisteAll/JBaptisteAll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Commit Activity](https://img.shields.io/github/commit-activity/y/JBaptisteAll/Japan_tourism_analysis)
