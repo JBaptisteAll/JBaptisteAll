@@ -5,7 +5,7 @@ I’m a data analyst.
 - Please feel free to watch my Project and give me any advice you might have
 Learn more: 
 
-     ➡️     [My Portfolio](https://jbaptisteall.github.io/JeanBaptisteAllombert/)  ⬅️  
+     ➡️     [My Portfolio]([https://jbaptisteall.github.io/JeanBaptisteAllombert/](https://jbaptisteall.github.io/JeanBaptisteAllombert/index.html?utm_source=github&utm_medium=referral&utm_campaign=github))  ⬅️  
 
 ↗️⬆️ Reach me here ⬆️↖️
 
